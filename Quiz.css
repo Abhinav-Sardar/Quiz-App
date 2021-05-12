@@ -1,0 +1,117 @@
+#main_cont {
+    margin-top: 7.3%;
+    border:1px solid black ;
+    height:63%;
+    background-color:White ;
+    /* width:80% ;  */
+    width:85%  ; 
+    /* position: relative; */
+    /* left:10%; */
+    margin-left: 7%;
+}
+.btn{
+    height:15% ;
+    width:14% ;
+    position: absolute;
+    /* background-color: rgb(61, 61, 182); */
+    background-color: rgb(4, 133, 255);
+    outline:none;
+    border:none ;
+    border-radius:20px ; ;
+    color:White ;
+    font-size: 170%;
+    font-family: 'Orelega One', cursive;
+
+}
+body{
+    /* color :white ;  */
+    /* background-color: #5900ff; */
+    /* background-color: #ff0000; */
+    background-color: rgb(4, 133, 255);
+}
+#question_cont{
+    height:10% ;
+    font-size:27px ; 
+    border:1px solid black ;
+    /* padding-top:10px ;  */
+    margin-top: 1.7% ; ;
+    /* width:300% ; */
+    /* position: absolute; */
+    width:100% ; 
+}
+#timer_cont{
+    font-size:4rem ;
+    position:relative ;
+    top:2% ;
+    color:white ;
+}
+#opt1{
+    position: absolute;
+    left:14.3% ;
+    top:49%  ;
+}
+#opt2{
+    position: absolute;
+    left:14.3% ;
+    top:70% ;
+}
+
+#opt3{
+    position: absolute;
+    /* height:100px ;
+     */
+     right:14.3% ;
+     top:49%;
+
+}
+#opt4{
+    position: absolute;
+    right:14.3% ;
+    top:70% ;
+}
+#score{
+    color:white ;
+    font-size: 3rem;
+
+}
+body.preventScroll{
+    overflow-y:hidden;
+    overflow-x: hidden;
+}
+body.showScroll{
+    overflow-y:auto;
+}
+input{
+    height:40px ; 
+    font-size: 20px  ;
+}
+.starsconts{
+    display: inline;
+    /* height:100px ;  */
+    font-size:2.9rem ; 
+}
+/* body{
+    background-color: white;
+} */
+i{
+    color:gray ; 
+}
+.gold{
+    color:gold ; 
+
+}
+.grey{
+    color:gray ; 
+}
+.red{
+  color:rgb(255, 44, 44) ; 
+}
+.btn.msg{
+    position: absolute;
+    left:43% ;
+    top:60%; 
+    /* color:black ;  */
+}
+.gree{
+  color :rgb(3, 255, 36) ; 
+}

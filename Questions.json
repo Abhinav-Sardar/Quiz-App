@@ -1,0 +1,116 @@
+[
+    {
+        "qq":"Which is the richest country in the world ?" , 
+        "opt1":"Qatar" , 
+        "opt2":"India" , 
+        "opt3":"USA" , 
+        "opt4":"China", 
+        "correctOpt":"Qatar"
+    } , 
+    {
+        "qq":"Which movie earned the most money ?" , 
+        "opt1":"Endgame" , 
+        "opt2":"Lion King" , 
+        "opt3":"Titanic" , 
+        "opt4":"Avatar" , 
+        "correctOpt":"Avatar" 
+    } , 
+    {
+        "qq":"Who was the first president of America ?" , 
+        "opt1":"Barack Obama" , 
+        "opt2":"George Washington" , 
+        "opt3":"Abraham Lincoln" , 
+        "opt4":"John Kennedy" , 
+        "correctOpt":"George Washington" 
+    } , 
+    {
+        "qq":"Who invented computer ?" , 
+        "opt1":"Nikola Tesla" , 
+        "opt2":"Henry Ford" , 
+        "opt3":"Charles Babbage" , 
+        "opt4":"Benjamin Franklin" , 
+        "correctOpt":"Charles Babbage"
+    } , 
+    {
+        "qq":"Which ipl team has won IPL the most number of times?" , 
+        "opt1":"Mumbai Indians" , 
+        "opt2":"Chennai Super Kings" , 
+        "opt3":"Kolkata Knight Riders" , 
+        "opt4":"Sunrisers Hyderabad" ,
+        "correctOpt":"Mumbai Indians" 
+
+    } , 
+    {
+        "qq":"Which social media platform has most number of daily users?" , 
+        "opt1":"Instagram" , 
+        "opt2":"Youtube" , 
+        "opt3":"FaceBook" , 
+        "opt4":"Twitter"  , 
+        "correctOpt":"FaceBook"
+    } , 
+    {
+        "qq":"How much percent of water is present on earth ?", 
+        "opt1":"71%" , 
+        "opt2":"90%", 
+        "opt3":"75%" , 
+        "opt4":"80%" , 
+        "correctOpt":"71%" 
+    } , 
+    {
+        "qq":"Who invented 0 ?" , 
+        "opt1":"Albert Einstein" , 
+        "opt2":"Chanakya" , 
+        "opt3":"Archimedes" , 
+        "opt4":"Aryabhatta" , 
+        "correctOpt":"Aryabhatta" 
+
+    } , 
+    {
+        "qq":"Who among the folllowing personalities has never been the richest person ?" , 
+        "opt1":"Bill Gates" , 
+        "opt2":"Mukesh Ambani" , 
+        "opt3":"Warren Buffet" , 
+        "opt4":"Jeff Bezos" , 
+        "correctOpt":"Mukesh Ambani"
+    } , 
+    {
+        "qq":"Which of the following is a  tool used to make an incision/cut on the human body during surgery ?" , 
+        "opt1":"Scalpel" , 
+        "opt2":"Forceps" , 
+        "opt3":"Clamps" , 
+        "opt4":"Retractors" ,
+        "correctOpt":"Scalpel" 
+    } , 
+    {
+        "qq":"What is the average life expectancy of a common person." , 
+        "opt1":"60 - 70 years" , 
+        "opt2":"80 - 90 years" , 
+        "opt3":"70 - 80 years" , 
+        "opt4":"100+ years" , 
+        "correctOpt":"70 - 80 years"
+    }  , 
+    {
+        "qq":"Who is considered as the iron man of India ?" , 
+        "opt1":"Mangal Pandey" , 
+        "opt2":"Ishwar Chandra Vidyasagar" , 
+        "opt3":"Chandrashekhar Aazad" , 
+        "opt4":"Sardar Vallabhai Patel" , 
+        "correctOpt":"Sardar Vallabhai Patel"
+    } , 
+    {
+        "qq":"In which country did the first humans evolve ?" , 
+        "opt1":"Australia", 
+        "opt2":"Africa" , 
+        "opt3":"India" , 
+        "opt4":"Pakistan" , 
+        "correctOpt":"Africa"
+    } ,
+    {
+      "qq":"In programming , which of the following is used to store a list of data?" , 
+      "opt1":"String" , 
+      "opt2":"Array" , 
+      "opt3":"Boolean" , 
+      "opt4":"Object" , 
+      "correctOpt":"Array"
+    } 
+]
